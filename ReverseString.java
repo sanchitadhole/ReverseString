@@ -11,8 +11,3 @@ public class ReverseString {
  System.out.println(new ReverseString().find("SANCHITA")); }
 }
 
-// output
-// PS D:\Sanchita\Java Practicles> javac ReverseString.java
-// PS D:\Sanchita\Java Practicles> java ReverseString
-// ATIHCNAS
-// PS D:\Sanchita\Java Practicles>
